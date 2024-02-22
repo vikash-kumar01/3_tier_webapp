@@ -5,7 +5,7 @@
 
 # Steps to Run this Terraform Module
 
-This repository contains a Terraform module for [provide a brief description of the module].
+This repository contains a Terraform module for Depployment of 3Tier Infra.
 
 ## Prerequisites
 
